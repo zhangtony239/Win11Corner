@@ -1,4 +1,4 @@
-# Win11Corner [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhangtony239%2FWin11Corner.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhangtony239%2FWin11Corner?ref=badge_shield&issueType=security)
+# Win11Corner
 你是否也曾因为喜欢win11的圆角设计而感到屏幕的四个角不够圆润？这款Rainmeter皮肤就是来解决这个问题的。
 
 ## 使用方法
